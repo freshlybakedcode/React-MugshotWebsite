@@ -1,1 +1,1 @@
-Boilerplate React App
+Supporting website for Mugshot app, built in React
